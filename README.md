@@ -7,4 +7,4 @@ Display Facts about the US (Population, average age, Tuition) etc. It utilizes t
 1. Download the files
 2. run the file with Node
 3. You will see a file added to your directory called data.tsv
-4. If you want to trasnfer it to an sftp Server, you can enter the credentals starting at line 151
+4. If you want to transfer it to an sftp Server, you can enter the credentals starting at line 151
