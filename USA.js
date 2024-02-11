@@ -148,10 +148,10 @@ async function uploadToSftpServer(tsvData) {
   try {
     // Connect to the SFTP server
     await sftp.connect({
-      host: "192.168.86.33",
-      port: 22,
-      username: "tester",
-      password: "password",
+      host: "/*Enter Ip here*/",
+      port: "/*Enter port number here*/",
+      username: "/*Enter username here*/",
+      password: "/*Enter password here*/",
     });
 
     // Upload the TSV data to the SFTP server
